@@ -1,4 +1,4 @@
-# Mekan Bul Backend Projesi (Final Ödevi)
+# Mekan Bul Backend Projesi 
 **Öğrenci:** Alican Kutsal
 
 Bu proje, Node.js, Express.js ve MongoDB Cloud kullanılarak geliştirilmiş bir REST API uygulamasıdır. Tüm proje Vercel üzerinde başarılı bir şekilde dağıtılmış (deploy) durumdadır.
